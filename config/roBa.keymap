@@ -96,8 +96,7 @@
             >;
 
                     sensor-bindings = <&encoder_msc_down_up>;
-            };
-};
+        };
 
         FUNCTION {
             bindings = <
